@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BurpSuite pro
+Comment=Крякнутый burp special 4u
+Exec=cd /home/mihailovily/Apps/burpsuite_pro_v2024.7 && ./runburp.sh
+Terminal=false
+Type=Application
+Icon=/home/mihailovily/Apps/burpsuite_pro_v2024.7/burp_suite.ico
+Categories=Development;

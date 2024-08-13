@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IDA pro
+Comment=Ida делает кря-кря
+Exec=cd /home/mihailovily/idapro-9.0 && ./ida64
+Terminal=false
+Type=Application
+Icon=/home/mihailovily/idapro-9.0/appico.png
+Categories=Development;

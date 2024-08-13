@@ -1,0 +1,1 @@
+По пути /usr/local/sbin валяется файл cpumode с правами на запуск и sudo cpumode help вызывает хелпу, sudo cpumode performance переключает говернор ядра
